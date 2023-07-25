@@ -1,0 +1,90 @@
+{
+  "favourites": [
+    {
+      "name": "Cristiano Ronaldo",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/nassrs-portuguese-forward-cristiano-ronaldo-gestures-during-news-photo-1683296658.jpg?crop=0.745xw:1.00xh;0,0&resize=1200:*",
+      "followers": "598M",
+      "id": 1
+    },
+    {
+      "name": "Kylian Mbappe",
+      "picture": "https://www.planetsport.com/image-library/og/1600/k/kylian-mbappe-psg-france-3-april-2022.jpg",
+      "followers": "110M",
+      "id": 2
+    },
+    {
+      "name": "Sewersydaa Mkadinali",
+      "picture": "https://yt3.googleusercontent.com/YlI6rKuNUWkCoswBfoRdP1Z7_PnzIOMhGx1DgK4y8-HLKFUOAlY0UfeuEt5fwmF7ZEvmQ1iTdA=s900-c-k-c0x00ffffff-no-rj",
+      "followers": "67.4K",
+      "id": 4
+    },
+    {
+      "name": "Vinicius Junior",
+      "picture": "https://media.cnn.com/api/v1/images/stellar/prod/230615113836-vinicius-jr-real-madrid-file-restricted-060423.jpg?c=original",
+      "followers": "55M",
+      "id": 5
+    },
+    {
+      "name": "Erling Haaland",
+      "picture": "https://cdn.theathletic.com/app/uploads/2022/09/07021831/ERLING-HAALAND-MANCHESTER-CITY-scaled-e1662531544452-1024x683.jpg",
+      "followers": "35M",
+      "id": 6
+    },
+    {
+      "name": "Kevin De Bryune",
+      "picture": "https://cdn3.mozzartsport.co.ke/upload/825x464/News/Image/2023_03/1679434109548_066_DPPI_40522031_016.jpg",
+      "followers": "34M",
+      "id": 7
+    },
+    {
+      "name": "Diogo Jota",
+      "picture": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0d3960f8fae09a8f/61a879992ea67009f6d10ded/GettyImages-1356655019.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "followers": "20M",
+      "id": 8
+    },
+    {
+      "name": "Egyptian King",
+      "picture": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt8fdd1ef9212958b9/6404de8cb135f128bd0e062a/GettyImages-1471469891.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "followers": "78M",
+      "id": 15
+    },
+    {
+      "name": "Cody Gakpo",
+      "picture": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt6bc36cf4b997ba39/645a0449b5acf733336ab34d/GOAL_-_Blank_WEB_-_Facebook_-_2023-05-09T092755.176.png?auto=webp&format=pjpg&width=3840&quality=60",
+      "followers": "1.9M",
+      "id": 17
+    },
+    {
+      "name": "Sadio Mane",
+      "picture": "https://i2-prod.mirror.co.uk/incoming/article30514677.ece/ALTERNATES/s1200c/0_Sadio-Mane-8.jpg",
+      "followers": "45M",
+      "id": 18
+    },
+    {
+      "name": "Obrigado Pele",
+      "picture": "https://www.aljazeera.com/wp-content/uploads/2022/12/2022-12-03T134230Z_321244191_RC2TXX9VJN5K_RTRMADP_3_SOCCER-PELE.jpg?resize=1920%2C1440",
+      "followers": "10M",
+      "id": 19
+    },
+    {
+      "name": "Rodrigo Goes",
+      "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSwu5Bnn0QQW4Uvh_qeRmT8wjpQTcCoef7enf0a0La9XsFn1O0PLkOBiMnd4xZH-0BPvkqM-hdh_a8ZRH8",
+      "followers": "31M",
+      "id": 20
+    },
+    {
+      "name": "Ronaldo Nazario",
+      "picture": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9d791f6b15f27c9c/60df77cf21d15821fe7e5469/4632f737dc6c464eecebcc7e95f111f4e922825e.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "followers": "11M",
+      "id": 21
+    }
+  ],
+  "results": [
+    {
+      "id": 1,
+      "wins": 8,
+      "ties": 8,
+      "losses": 9
+    }
+  ]
+}
