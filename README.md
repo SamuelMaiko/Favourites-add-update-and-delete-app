@@ -1,4 +1,7 @@
 # Favourites-add-update-and-delete-app
 
 #set-up
-Favourites.json port is (3000)
+Run: npm install
+Run: npm install -g json-server
+Run: json-server --watch --port 3000 open another terminal 
+Run : npm start
